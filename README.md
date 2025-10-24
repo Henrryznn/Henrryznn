@@ -2,7 +2,13 @@
 
 **`Cientista da Computação`**
 
+![snake animation](https://github.com/<henrryznn>/<henrryznn>/blob/output/github-contribution-grid-snake2.svg)
+
+
 Me chamo Gabriel Henrry, tenho 21 anos e sou natural de Brasília DF. Concluí o ensino médio no CED 03 do Guará. Atualmente, estou cursando Ciência da Computação na UDF. Sou apaixonado por tecnologia e compartilho meu conhecimento através do próprio github, onde coloco todo os meus projetos web.
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrryznn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrry-1a911a317/)
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -62,9 +68,15 @@ Me chamo Gabriel Henrry, tenho 21 anos e sou natural de Brasília DF. Concluí o
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+    
+<br/>
+<br/>
 
-<br/>
-<br/>
+<div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+ <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  </div>
 
 ### 📊 Estatísticas
 
