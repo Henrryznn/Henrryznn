@@ -2,7 +2,7 @@
 
 **`Cientista da Computação`**
 
-Me chamo Gabriel Henrry, tenho 21 anos e sou natural de Brasília Df. Concluí o ensino médio no CED 03 do Guará. Atualmente, estou cursando Ciência da Computação na UDF. Sou apaixonado por tecnologia e compartilho meu conhecimento através do próprio github, onde coloco todo os meus projetos web.
+Me chamo Gabriel Henrry, tenho 21 anos e sou natural de Brasília DF. Concluí o ensino médio no CED 03 do Guará. Atualmente, estou cursando Ciência da Computação na UDF. Sou apaixonado por tecnologia e compartilho meu conhecimento através do próprio github, onde coloco todo os meus projetos web.
 
 ### 🤖 Linguagens e Tecnologias
 
