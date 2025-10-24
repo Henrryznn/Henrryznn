@@ -2,9 +2,6 @@
 
 **`Cientista da Computação`**
 
-![snake animation](https://github.com/<henrryznn>/<henrryznn>/blob/output/github-contribution-grid-snake2.svg)
-
-
 Me chamo Gabriel Henrry, tenho 21 anos e sou natural de Brasília DF. Concluí o ensino médio no CED 03 do Guará. Atualmente, estou cursando Ciência da Computação na UDF. Sou apaixonado por tecnologia e compartilho meu conhecimento através do próprio github, onde coloco todo os meus projetos web.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrryznn/)
